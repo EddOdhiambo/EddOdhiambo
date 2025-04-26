@@ -1,6 +1,6 @@
 👋 Hi, I'm Edward Odhiambo, a Data Analyst and Sales Automation Manager based in Nairobi, Kenya. I specialize in turning raw data into actionable insights, building KPI dashboards, and automating complex systems to drive business performance.<br/>
 
-🎓 I hold a BSc in Statistics and Programming and a Certificate in Leadership Studies from Kenyatta University.<br/>
+🎓 I hold a BSc in Statistics and Programming.<br/>
 
 🚀 With hands-on experience in tools like SQL, Python, Power BI, and Excel, I have worked across FMCG and telecom industries, leading projects in data integration, ERP automation, and CRM and SFA deployment.<br/>
 
